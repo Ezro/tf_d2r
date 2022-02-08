@@ -1,0 +1,14 @@
+item {
+	id: 1
+	name: '{"type":"monster","name":"eldritch","status":"dead","facing":"away"}'
+}
+
+item {
+    id:2
+	name: '{"type":"monster","name":"eldritch","status":"alive","facing":"away"}'
+}
+
+item {
+    id:3
+	name: '{"type":"monster","name":"eldritch","status":"alive","facing":"toward"}'
+}

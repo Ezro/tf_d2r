@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>eldritch4.png</filename>
+	<path>C:\justin\code\TFODCourse\Tensorflow\workspace\images\collectedimages\eldritch4.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>120</width>
+		<height>107</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>{"type":"monster","name":"eldritch","status":"dead","facing":"away"}</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>31</ymin>
+			<xmax>91</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+</annotation>
