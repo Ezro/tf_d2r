@@ -1,0 +1,54 @@
+{
+    "labels": {
+        "player": {
+            "class": {
+                "barbarian": [{
+                        "type": "player",
+                        "helm": "cap",
+                        "weapon": "sword",
+                        "shield": "kite",
+                        "health": 100,
+                        "mana": 100,
+                        "aura": "meditation"
+                    }
+                ]
+            },
+            "mercenary": [{
+                    "type": "mercenary",
+                    "act": 2,
+                    "status": ["alive"],
+                    "health": 100,
+                    "aura": "meditation"
+                }
+            ]
+        },
+        "items": {
+            "misc": [
+                "super healing potion"
+            ],
+            "weapons": {
+                "swords": {
+                }
+            }
+        }
+        "act5": {
+            "eldritch": [{
+                    "type": ["monster", "demon", "superunique"],
+                    "name": "eldritch",
+                    "status": ["dead"],
+                    "facing": "away"
+                }, {
+                    "type": ["monster", "demon", "superunique"],
+                    "name": "eldritch",
+                    "status": ["alive"],
+                    "facing": "away"
+                }, {
+                    "type": ["monster", "demon", "superunique"],
+                    "name": "eldritch",
+                    "status": ["alive"],
+                    "facing": "toward"
+                }
+            ]
+        },
+    }
+}
